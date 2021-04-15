@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="./template/styles.xsl">
+<catalog>
+    <planta>
+        <nombrecientificio>Sansevieria trifasciata </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    </planta>
+</catalog>
+</xsl:stylesheet>
