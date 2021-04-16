@@ -15,11 +15,11 @@
     <planta>
     <!-- PLANTA 2 / C -->
         <nombrecientificio>Monstera Deliciosa </nombrecientificio>
-        <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <zona>Recomendado para baño</zona>
+        <luz>Necesita luz brillante</luz>
+        <precio>14€</precio>
+        <cuidado>Luz brillante pero indirecta, 1 riego por semana y rociar 1 vez a la semana por las mañanas.</cuidado>
+        <imagen>img/monstera-deliciosa-1.jpg</imagen>
     <!-- PLANTA 2 / C -->    
     </planta>
 
@@ -37,11 +37,11 @@
      <planta>
     <!-- PLANTA 4 / C -->
         <nombrecientificio>Pilea Peperomoides </nombrecientificio>
-        <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <zona>Recomendado para dormitorios, oficinas y salas de estar.</zona>
+        <luz>Necesita luz brillante</luz>
+        <precio>24€</precio>
+        <cuidado>Luz brillante pero indirecta, 1 riego cada 2 semanas y poca humedad.</cuidado>
+        <imagen>img/pilea-peperomioides-1.jpg</imagen>
     <!-- PLANTA 4 / C -->    
     </planta>
 
@@ -59,11 +59,11 @@
      <planta>
     <!-- PLANTA 6 / C -->
         <nombrecientificio>Senecio Rowleyanus </nombrecientificio>
-        <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <zona>Ventanas y balcones, ideal como planta colgante.</zona>
+        <luz>Necesita luz brillante</luz>
+        <precio>14€</precio>
+        <cuidado>Luz brillante y grandes riegos cada 2 semanas. </cuidado>
+        <imagen>img/senecio-rowleyanus-1.jpg</imagen>
     <!-- PLANTA 6 / C -->    
     </planta>
 
@@ -81,11 +81,11 @@
      <planta>
     <!-- PLANTA 8 / C -->
         <nombrecientificio>Zamioculca Zamiifolia </nombrecientificio>
-        <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <zona>Recomendado para dormitorios y oficinas.</zona>
+        <luz>Sobrevive con poca luz</luz>
+        <precio>18€</precio>
+        <cuidado>Luz brillante pero no intensa, grandes riegos cada 3-4 semanas.</cuidado>
+        <imagen>img/zamioculca-zamiifolia-1.jpg</imagen>
     <!-- PLANTA 8 / C -->    
     </planta>
 
@@ -103,11 +103,11 @@
      <planta>
     <!-- PLANTA 10 / C -->
         <nombrecientificio>Alocasia Cuprea </nombrecientificio>
-        <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <zona>Recomendado para baños</zona>
+        <luz>Necesita luz brillante</luz>
+        <precio>13€</precio>
+        <cuidado>Luz brillante pero indirecta y riegos semanales.</cuidado>
+        <imagen>img/alocasia-cuprea-1.jpg</imagen>
     <!-- PLANTA 10 / C -->    
     </planta>
 
@@ -125,11 +125,11 @@
      <planta>
     <!-- PLANTA 12 / C -->
         <nombrecientificio>Alocasia Portora </nombrecientificio>
-        <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <zona>Muy recomendado para baños</zona>
+        <luz>Necesita luz brillante</luz>
+        <precio>24€</precio>
+        <cuidado>Sol brillante o pleno, riegos diarios y humedad superior a la media.</cuidado>
+        <imagen>img/alocasia-portora-1.jpg</imagen>
     <!-- PLANTA 12 / C -->    
     </planta>
 
@@ -147,11 +147,11 @@
      <planta>
     <!-- PLANTA 14 / C -->
         <nombrecientificio>Alocasia Tiny Dancer </nombrecientificio>
-        <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <zona>Muy recomendado para baños.</zona>
+        <luz>Necesita luz brillante</luz>
+        <precio>20€</precio>
+        <cuidado>Sol brillante o pleno, riegos diarios y humedad superior a la media.</cuidado>
+        <imagen>img/alocasia-tiny-dancer-1.jpg</imagen>
     <!-- PLANTA 14 / C -->    
     </planta>
 
@@ -169,11 +169,11 @@
      <planta>
     <!-- PLANTA 16 / C -->
         <nombrecientificio>Maranta Leuconeura Erythroneura </nombrecientificio>
-        <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <zona>Muy recomendado para baños.</zona>
+        <luz>Luz indirecta</luz>
+        <precio>12€</precio>
+        <cuidado>Lugares sombreados con luz indirecta, riegos semanales y rociar 1 vez por semana.</cuidado>
+        <imagen>img/maranta-leuconeura-erythroneura-1.jpg</imagen>
     <!-- PLANTA 16 / C -->    
     </planta>
 
@@ -191,11 +191,11 @@
      <planta>
     <!-- PLANTA 18 / C -->
         <nombrecientificio>Ficus Pumila </nombrecientificio>
-        <zona></zona>
+        <zona>Ventanas y balcones, ideal como planta colgante.</zona>
         <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <precio>3€</precio>
+        <cuidado>Luz brillante pero filtrada, riegos semanales y humedad promedia.</cuidado>
+        <imagen>img/ficus-pumila-1.jpg</imagen>
     <!-- PLANTA 18 / C -->    
     </planta>
 
@@ -213,11 +213,11 @@
      <planta>
     <!-- PLANTA 20 / C -->
         <nombrecientificio>Aspidistra Elatior </nombrecientificio>
-        <zona></zona>
+        <zona>Ideal para oficinas</zona>
         <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <precio>20€</precio>
+        <cuidado>Tolera muchos rangos de luz y temperatura, riegos semanales y poca humedad.</cuidado>
+        <imagen>img/aspidistra-elatior-1.jpg</imagen>
     <!-- PLANTA 20 / C -->    
     </planta>
       
