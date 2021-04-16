@@ -2,12 +2,224 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="./template/styles.xsl">
 <catalog>
     <planta>
-        <nombrecientificio>Sansevieria trifasciata </nombrecientificio>
+    <!-- PLANTA 1 / U -->
+        <nombrecientificio>Sansevieria Trifasciata </nombrecientificio>
         <zona></zona>
         <luz>Poca luz</luz>
         <precio></precio>
         <cuidado></cuidado>
         <imagen></imagen>
+    <!-- PLANTA 1 / U -->    
     </planta>
+
+    <planta>
+    <!-- PLANTA 2 / C -->
+        <nombrecientificio>Monstera Deliciosa </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 2 / C -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 3 / U -->
+        <nombrecientificio>Alocasia Amazonica </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 3 / U -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 4 / C -->
+        <nombrecientificio>Pilea Peperomoides </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 4 / C -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 5 / U -->
+        <nombrecientificio>Ficus Elastica </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 5 / U -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 6 / C -->
+        <nombrecientificio>Senecio Rowleyanus </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 6 / C -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 7 / U -->
+        <nombrecientificio>Orchidaceae </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 7 / U -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 8 / C -->
+        <nombrecientificio>Zamioculca Zamiifolia </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 8 / C -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 9 / U -->
+        <nombrecientificio>Pulmonaria </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 9 / U -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 10 / C -->
+        <nombrecientificio>Alocasia Cuprea </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 10 / C -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 11 / U -->
+        <nombrecientificio>Nelumbo nucifera </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 11 / U -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 12 / C -->
+        <nombrecientificio>Alocasia Portora </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 12 / C -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 13 / U -->
+        <nombrecientificio>Magnolia grandiflora </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 13 / U -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 14 / C -->
+        <nombrecientificio>Alocasia Tiny Dancer </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 14 / C -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 15 / U -->
+        <nombrecientificio>Jasminum </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 15 / U -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 16 / C -->
+        <nombrecientificio>Maranta Leuconeura Erythroneura </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 16 / C -->    
+    </planta>
+
+    <planta>
+    <!-- PLANTA 17 / U -->
+        <nombrecientificio>Agapanthus africanus </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 17 / U -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 18 / C -->
+        <nombrecientificio>Ficus Pumila </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 18 / C -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 19 / U -->
+        <nombrecientificio>Heliconia psittacoru </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 19 / U -->    
+    </planta>
+
+     <planta>
+    <!-- PLANTA 20 / C -->
+        <nombrecientificio>Aspidistra Elatior </nombrecientificio>
+        <zona></zona>
+        <luz>Poca luz</luz>
+        <precio></precio>
+        <cuidado></cuidado>
+        <imagen></imagen>
+    <!-- PLANTA 20 / C -->    
+    </planta>
+      
 </catalog>
 </xsl:stylesheet>
