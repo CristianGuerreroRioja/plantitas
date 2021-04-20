@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="./template/styles.xsl">
+<?xml-stylesheet type="text/xsl" href="./template/styles.xsl"?>
 <catalog>
     <planta>
     <!-- PLANTA 1 / U -->
         <nombrecientificio>Sansevieria Trifasciata </nombrecientificio>
         <zona></zona>
         <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <precio>9,95€</precio>
+        <cuidado>Lo ideal es regarla cada 15 días en primavera y verano, y apenas una vez al mes en invierno. </cuidado>
+        <imagen>img\sanseviera.jpg</imagen>
     <!-- PLANTA 1 / U -->    
     </planta>
 
@@ -27,10 +27,10 @@
     <!-- PLANTA 3 / U -->
         <nombrecientificio>Alocasia Amazonica </nombrecientificio>
         <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <luz>Luz sin sol directo</luz>
+        <precio>14.95€</precio>
+        <cuidado>3-4 veces por semana en verano, y cada 5 días más o menos el resto. Usar agua de lluvia o sin cal.</cuidado>
+        <imagen>img\alocasia_amazonica.jpg</imagen>
     <!-- PLANTA 3 / U -->    
     </planta>
 
@@ -48,11 +48,11 @@
      <planta>
     <!-- PLANTA 5 / U -->
         <nombrecientificio>Ficus Elastica </nombrecientificio>
-        <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <zona>Siempre que se pueda, será más recomendable ponerlo en el exterior, a pleno sol.</zona>
+        <luz>El lugar que escojas para tu arbolito tiene que permitirle absorber mucha luz, pero de forma indirecta. </luz>
+        <precio>19.95€</precio>
+        <cuidado>Lo mejor es regarla poco, siempre esperando a que la tierra se seque completamente entre riego y riego.</cuidado>
+        <imagen>img\ficus_elastica.jpg</imagen>
     <!-- PLANTA 5 / U -->    
     </planta>
 
@@ -70,11 +70,11 @@
      <planta>
     <!-- PLANTA 7 / U -->
         <nombrecientificio>Orchidaceae </nombrecientificio>
-        <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <zona>Baño en la que haya mucha claridad</zona>
+        <luz>Bien iluminado donde no reciban sol directo</luz>
+        <precio>29,95€</precio>
+        <cuidado>En las épocas del año cálidas, se podrán realizar riegos de 1 a 2 veces a la semana, mientras que en las frías, una vez cada 2 semanas aproximadamente.</cuidado>
+        <imagen>img\Orchidaceae.jpg</imagen>
     <!-- PLANTA 7 / U -->    
     </planta>
 
@@ -93,10 +93,10 @@
     <!-- PLANTA 9 / U -->
         <nombrecientificio>Pulmonaria </nombrecientificio>
         <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <luz>Tener un lugar soleado </luz>
+        <precio>18.6€</precio>
+        <cuidado>Riegos</cuidado>
+        <imagen>img\pulmonaria.jpg</imagen>
     <!-- PLANTA 9 / U -->    
     </planta>
 
@@ -114,10 +114,10 @@
      <planta>
     <!-- PLANTA 11 / U -->
         <nombrecientificio>Nelumbo nucifera </nombrecientificio>
-        <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
+        <zona>Se ha de ubicar en una zona donde le dé la luz del sol de manera directa</zona>
+        <luz>Luz todo el dia</luz>
+        <precio>8,02€</precio>
+        <cuidado> </cuidado>
         <imagen></imagen>
     <!-- PLANTA 11 / U -->    
     </planta>
@@ -222,4 +222,3 @@
     </planta>
       
 </catalog>
-</xsl:stylesheet>
