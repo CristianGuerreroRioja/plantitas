@@ -2,29 +2,30 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
 <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" charset="UTF-8"/>
+<link rel="stylesheet" type="text/css" href="./css/styles.css"/>
+</head>
 <body>
-<h2>Taller</h2>
-<table border="1">
-<tr bgcolor="#9acd32">
-<th>Nombre</th>
-<th>Zona</th>
-<th>Luz</th>
-<th>Precio</th>
-<th>Cuidado</th>
-<th>Imagen</th>
-</tr>
-<xsl:for-each select="catalog/planta">
-<tr>
-<td><xsl:value-of select="nombrecientifico"/></td>
-<td><xsl:value-of select="zona"/></td>
-<td><xsl:value-of select="luz"/></td>
-<td><xsl:value-of select="precio"/></td>
-<td><xsl:value-of select="cuidado"/></td>
-<td><xsl:value-of select="imagen"/></td>
-</tr>
-</xsl:for-each>
-</table>
+<div class="header" id="header">
+        <h1>
+            <Header>Plantitas </Header>
+        </h1>
+</div>
+
+
 </body>
 </html>
 </xsl:template>
 </xsl:stylesheet>
+
+
+<!-- FOTOS
+    <xsl:for-each select="catalog/planta">
+    <img>
+    <xsl:attribute name="src">
+    <xsl:value-of select="imagen"/>
+    </xsl:attribute>
+    </img>
+    </xsl:for-each>
+-->

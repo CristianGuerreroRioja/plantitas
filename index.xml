@@ -8,7 +8,7 @@
         <luz>Poca luz</luz>
         <precio>9,95€</precio>
         <cuidado>Lo ideal es regarla cada 15 días en primavera y verano, y apenas una vez al mes en invierno. </cuidado>
-        <imagen>img\sanseviera.jpg</imagen>
+        <imagen>img/sanseviera.jpg</imagen>
     <!-- PLANTA 1 / U -->    
     </planta>
 
@@ -217,7 +217,7 @@
         <luz>Poca luz</luz>
         <precio>20€</precio>
         <cuidado>Tolera muchos rangos de luz y temperatura, riegos semanales y poca humedad.</cuidado>
-        <imagen>img/aspidistra-elatior-1.jpg</imagen>
+        <imagen ruta="img/aspidistra-elatior-1.jpg"/>
     <!-- PLANTA 20 / C -->    
     </planta>
       

@@ -1,0 +1,38 @@
+table,
+th,
+td {
+    border: 10px solid black;
+}
+
+
+/*header*/
+
+.header {
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 5% 15px;
+    text-align: center;
+    color: black;
+}
+
+.header h1 {
+    font-size: 6vw;
+}
+
+
+/*Section-2*/
+
+.four-column {
+    float: left;
+    width: 25%;
+    padding: 2%;
+}
+
+.four-column img {
+    width: 100%;
+    margin-bottom: -5px;
+}
+
+.four-column P {
+    text-align: center;
+}
