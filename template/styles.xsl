@@ -7,25 +7,35 @@
 <link rel="stylesheet" type="text/css" href="./css/styles.css"/>
 </head>
 <body>
-<div class="header" id="header">
-        <h1>
-            <Header>Plantitas </Header>
-        </h1>
+<div class="header" id="header"><h1><Header>Plantitas </Header></h1></div>
+<div class="row padding-30" id="section-2">
+<xsl:for-each select="catalog/planta1">
+<div class="four-column"><img><xsl:attribute name="src"><xsl:value-of select="imagen"/></xsl:attribute></img><p><strong><xsl:value-of select="nombrecientificio"/></strong></p><p><xsl:value-of select="zona"/></p><p><xsl:value-of select="luz"/></p><p><xsl:value-of select="precio"/></p><p><xsl:value-of select="cuidado"/></p></div>
+</xsl:for-each>
 </div>
-
-
+<div class="row padding-30" id="section-2">
+<xsl:for-each select="catalog/planta2">
+<div class="four-column"><img><xsl:attribute name="src"><xsl:value-of select="imagen"/></xsl:attribute></img><p><strong><xsl:value-of select="nombrecientificio"/></strong></p><p><xsl:value-of select="zona"/></p><p><xsl:value-of select="luz"/></p><p><xsl:value-of select="precio"/></p><p><xsl:value-of select="cuidado"/></p></div>
+</xsl:for-each>
+</div>
+<div class="row padding-30" id="section-2">
+<xsl:for-each select="catalog/planta3">
+<div class="four-column"><img><xsl:attribute name="src"><xsl:value-of select="imagen"/></xsl:attribute></img><p><strong><xsl:value-of select="nombrecientificio"/></strong></p><p><xsl:value-of select="zona"/></p><p><xsl:value-of select="luz"/></p><p><xsl:value-of select="precio"/></p><p><xsl:value-of select="cuidado"/></p></div>
+</xsl:for-each>
+</div>
+<div class="row padding-30" id="section-2">
+<xsl:for-each select="catalog/planta4">
+<div class="four-column"><img><xsl:attribute name="src"><xsl:value-of select="imagen"/></xsl:attribute></img><p><strong><xsl:value-of select="nombrecientificio"/></strong></p><p><xsl:value-of select="zona"/></p><p><xsl:value-of select="luz"/></p><p><xsl:value-of select="precio"/></p><p><xsl:value-of select="cuidado"/></p></div>
+</xsl:for-each>
+</div>
+<div class="row padding-30" id="section-2">
+<xsl:for-each select="catalog/planta5">
+<div class="four-column"><img><xsl:attribute name="src"><xsl:value-of select="imagen"/></xsl:attribute></img><p><strong><xsl:value-of select="nombrecientificio"/></strong></p><p><xsl:value-of select="zona"/></p><p><xsl:value-of select="luz"/></p><p><xsl:value-of select="precio"/></p><p><xsl:value-of select="cuidado"/></p></div>
+</xsl:for-each>
+</div>
 </body>
 </html>
+
+
 </xsl:template>
 </xsl:stylesheet>
-
-
-<!-- FOTOS
-    <xsl:for-each select="catalog/planta">
-    <img>
-    <xsl:attribute name="src">
-    <xsl:value-of select="imagen"/>
-    </xsl:attribute>
-    </img>
-    </xsl:for-each>
--->

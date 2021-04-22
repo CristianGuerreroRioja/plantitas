@@ -1,224 +1,224 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="./template/styles.xsl"?>
 <catalog>
-    <planta>
+    <planta1>
     <!-- PLANTA 1 / U -->
         <nombrecientificio>Sansevieria Trifasciata </nombrecientificio>
-        <zona></zona>
+        <zona>Recomendado para dormitorios</zona>
         <luz>Poca luz</luz>
         <precio>9,95€</precio>
         <cuidado>Lo ideal es regarla cada 15 días en primavera y verano, y apenas una vez al mes en invierno. </cuidado>
         <imagen>img/sanseviera.jpg</imagen>
     <!-- PLANTA 1 / U -->    
-    </planta>
+    </planta1>
 
-    <planta>
+    <planta1>
     <!-- PLANTA 2 / C -->
         <nombrecientificio>Monstera Deliciosa </nombrecientificio>
         <zona>Recomendado para baño</zona>
         <luz>Necesita luz brillante</luz>
         <precio>14€</precio>
         <cuidado>Luz brillante pero indirecta, 1 riego por semana y rociar 1 vez a la semana por las mañanas.</cuidado>
-        <imagen>img/monstera-deliciosa-1.jpg</imagen>
+        <imagen>img/monstera.jpg</imagen>
     <!-- PLANTA 2 / C -->    
-    </planta>
+    </planta1>
 
-     <planta>
+     <planta1>
     <!-- PLANTA 3 / U -->
         <nombrecientificio>Alocasia Amazonica </nombrecientificio>
-        <zona></zona>
+        <zona>Recomendado para dormitorios</zona>
         <luz>Luz sin sol directo</luz>
         <precio>14.95€</precio>
         <cuidado>3-4 veces por semana en verano, y cada 5 días más o menos el resto. Usar agua de lluvia o sin cal.</cuidado>
-        <imagen>img\alocasia_amazonica.jpg</imagen>
+        <imagen>img/alocasia.png</imagen>
     <!-- PLANTA 3 / U -->    
-    </planta>
+    </planta1>
 
-     <planta>
+     <planta1>
     <!-- PLANTA 4 / C -->
         <nombrecientificio>Pilea Peperomoides </nombrecientificio>
         <zona>Recomendado para dormitorios, oficinas y salas de estar.</zona>
         <luz>Necesita luz brillante</luz>
         <precio>24€</precio>
         <cuidado>Luz brillante pero indirecta, 1 riego cada 2 semanas y poca humedad.</cuidado>
-        <imagen>img/pilea-peperomioides-1.jpg</imagen>
+        <imagen>img/pilea.jpg</imagen>
     <!-- PLANTA 4 / C -->    
-    </planta>
+    </planta1>
 
-     <planta>
+     <planta2>
     <!-- PLANTA 5 / U -->
         <nombrecientificio>Ficus Elastica </nombrecientificio>
         <zona>Siempre que se pueda, será más recomendable ponerlo en el exterior, a pleno sol.</zona>
-        <luz>El lugar que escojas para tu arbolito tiene que permitirle absorber mucha luz, pero de forma indirecta. </luz>
+        <luz>Necesita luz brillante </luz>
         <precio>19.95€</precio>
-        <cuidado>Lo mejor es regarla poco, siempre esperando a que la tierra se seque completamente entre riego y riego.</cuidado>
-        <imagen>img\ficus_elastica.jpg</imagen>
+        <cuidado></cuidado>
+        <imagen>img/ficus.jpg</imagen>
     <!-- PLANTA 5 / U -->    
-    </planta>
+    </planta2>
 
-     <planta>
+     <planta2>
     <!-- PLANTA 6 / C -->
         <nombrecientificio>Senecio Rowleyanus </nombrecientificio>
         <zona>Ventanas y balcones, ideal como planta colgante.</zona>
         <luz>Necesita luz brillante</luz>
         <precio>14€</precio>
         <cuidado>Luz brillante y grandes riegos cada 2 semanas. </cuidado>
-        <imagen>img/senecio-rowleyanus-1.jpg</imagen>
+        <imagen>img/senecio.jpg</imagen>
     <!-- PLANTA 6 / C -->    
-    </planta>
+    </planta2>
 
-     <planta>
+     <planta2>
     <!-- PLANTA 7 / U -->
         <nombrecientificio>Orchidaceae </nombrecientificio>
         <zona>Baño en la que haya mucha claridad</zona>
         <luz>Bien iluminado donde no reciban sol directo</luz>
         <precio>29,95€</precio>
         <cuidado>En las épocas del año cálidas, se podrán realizar riegos de 1 a 2 veces a la semana, mientras que en las frías, una vez cada 2 semanas aproximadamente.</cuidado>
-        <imagen>img\Orchidaceae.jpg</imagen>
+        <imagen>img/orchidaceae.jpg</imagen>
     <!-- PLANTA 7 / U -->    
-    </planta>
+    </planta2>
 
-     <planta>
+    <planta2>
     <!-- PLANTA 8 / C -->
         <nombrecientificio>Zamioculca Zamiifolia </nombrecientificio>
         <zona>Recomendado para dormitorios y oficinas.</zona>
         <luz>Sobrevive con poca luz</luz>
         <precio>18€</precio>
         <cuidado>Luz brillante pero no intensa, grandes riegos cada 3-4 semanas.</cuidado>
-        <imagen>img/zamioculca-zamiifolia-1.jpg</imagen>
+        <imagen>img/zamioculca.jpg</imagen>
     <!-- PLANTA 8 / C -->    
-    </planta>
+    </planta2>
 
-     <planta>
+    <planta3>
     <!-- PLANTA 9 / U -->
         <nombrecientificio>Pulmonaria </nombrecientificio>
-        <zona></zona>
+        <zona>Recomendado para dormitorios y oficinas.</zona>
         <luz>Tener un lugar soleado </luz>
         <precio>18.6€</precio>
-        <cuidado>Riegos</cuidado>
-        <imagen>img\pulmonaria.jpg</imagen>
+        <cuidado>Luz brillante pero filtrada</cuidado>
+        <imagen>img/pulmonaria1.jpg</imagen>
     <!-- PLANTA 9 / U -->    
-    </planta>
+    </planta3>
 
-     <planta>
+     <planta3>
     <!-- PLANTA 10 / C -->
         <nombrecientificio>Alocasia Cuprea </nombrecientificio>
         <zona>Recomendado para baños</zona>
         <luz>Necesita luz brillante</luz>
         <precio>13€</precio>
         <cuidado>Luz brillante pero indirecta y riegos semanales.</cuidado>
-        <imagen>img/alocasia-cuprea-1.jpg</imagen>
+        <imagen>img/alocasia_cuprea.jpg</imagen>
     <!-- PLANTA 10 / C -->    
-    </planta>
+    </planta3>
 
-     <planta>
+     <planta3>
     <!-- PLANTA 11 / U -->
         <nombrecientificio>Nelumbo nucifera </nombrecientificio>
         <zona>Se ha de ubicar en una zona donde le dé la luz del sol de manera directa</zona>
         <luz>Luz todo el dia</luz>
         <precio>8,02€</precio>
-        <cuidado> </cuidado>
-        <imagen></imagen>
+        <cuidado>Luz brillante pero filtrada </cuidado>
+        <imagen>img/lotus.jpg</imagen>
     <!-- PLANTA 11 / U -->    
-    </planta>
+    </planta3>
 
-     <planta>
+     <planta3>
     <!-- PLANTA 12 / C -->
         <nombrecientificio>Alocasia Portora </nombrecientificio>
         <zona>Muy recomendado para baños</zona>
         <luz>Necesita luz brillante</luz>
         <precio>24€</precio>
         <cuidado>Sol brillante o pleno, riegos diarios y humedad superior a la media.</cuidado>
-        <imagen>img/alocasia-portora-1.jpg</imagen>
+        <imagen>img/alocasia_portora.jpg</imagen>
     <!-- PLANTA 12 / C -->    
-    </planta>
+    </planta3>
 
-     <planta>
+     <planta4>
     <!-- PLANTA 13 / U -->
         <nombrecientificio>Magnolia grandiflora </nombrecientificio>
-        <zona></zona>
+        <zona>Muy recomendado para balcones</zona>
         <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <precio>13€</precio>
+        <cuidado>Luz brillante pero filtrada</cuidado>
+        <imagen>img/magnolia_grandiflora.png</imagen>
     <!-- PLANTA 13 / U -->    
-    </planta>
+    </planta4>
 
-     <planta>
+     <planta4>
     <!-- PLANTA 14 / C -->
         <nombrecientificio>Alocasia Tiny Dancer </nombrecientificio>
         <zona>Muy recomendado para baños.</zona>
         <luz>Necesita luz brillante</luz>
         <precio>20€</precio>
         <cuidado>Sol brillante o pleno, riegos diarios y humedad superior a la media.</cuidado>
-        <imagen>img/alocasia-tiny-dancer-1.jpg</imagen>
+        <imagen>img/alocasia_tiny.jpg</imagen>
     <!-- PLANTA 14 / C -->    
-    </planta>
+    </planta4>
 
-     <planta>
+     <planta4>
     <!-- PLANTA 15 / U -->
         <nombrecientificio>Jasminum </nombrecientificio>
-        <zona></zona>
+        <zona>Muy recomendado para baños</zona>
         <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <precio>50€</precio>
+        <cuidado>Luz brillante pero filtrada</cuidado>
+        <imagen>img/jasminum1.jpg</imagen>
     <!-- PLANTA 15 / U -->    
-    </planta>
+    </planta4>
 
-     <planta>
+     <planta4>
     <!-- PLANTA 16 / C -->
         <nombrecientificio>Maranta Leuconeura Erythroneura </nombrecientificio>
         <zona>Muy recomendado para baños.</zona>
         <luz>Luz indirecta</luz>
         <precio>12€</precio>
         <cuidado>Lugares sombreados con luz indirecta, riegos semanales y rociar 1 vez por semana.</cuidado>
-        <imagen>img/maranta-leuconeura-erythroneura-1.jpg</imagen>
+        <imagen>img/maranta_leuconeura.jpg</imagen>
     <!-- PLANTA 16 / C -->    
-    </planta>
+    </planta4>
 
-    <planta>
+    <planta5>
     <!-- PLANTA 17 / U -->
         <nombrecientificio>Agapanthus africanus </nombrecientificio>
-        <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <zona>Ventanas y balcones, ideal como planta colgante.</zona>
+        <luz>Mucha luz</luz>
+        <precio>15€</precio>
+        <cuidado>Luz brillante pero filtrada</cuidado>
+        <imagen>img/aganpanthus.jpg</imagen>
     <!-- PLANTA 17 / U -->    
-    </planta>
+    </planta5>
 
-     <planta>
+     <planta5>
     <!-- PLANTA 18 / C -->
         <nombrecientificio>Ficus Pumila </nombrecientificio>
         <zona>Ventanas y balcones, ideal como planta colgante.</zona>
         <luz>Poca luz</luz>
         <precio>3€</precio>
         <cuidado>Luz brillante pero filtrada, riegos semanales y humedad promedia.</cuidado>
-        <imagen>img/ficus-pumila-1.jpg</imagen>
+        <imagen>img/ficus_pumila.jpg</imagen>
     <!-- PLANTA 18 / C -->    
-    </planta>
+    </planta5>
 
-     <planta>
+     <planta5>
     <!-- PLANTA 19 / U -->
-        <nombrecientificio>Heliconia psittacoru </nombrecientificio>
-        <zona></zona>
-        <luz>Poca luz</luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <nombrecientificio>Heliconia psittacorum</nombrecientificio>
+        <zona>Habitación</zona>
+        <luz>Mucha luz</luz>
+        <precio>20€</precio>
+        <cuidado>Tolera muchos rangos de lu</cuidado>
+        <imagen>img/heliconia.jpg</imagen>
     <!-- PLANTA 19 / U -->    
-    </planta>
+    </planta5>
 
-     <planta>
+     <planta5>
     <!-- PLANTA 20 / C -->
         <nombrecientificio>Aspidistra Elatior </nombrecientificio>
         <zona>Ideal para oficinas</zona>
         <luz>Poca luz</luz>
         <precio>20€</precio>
         <cuidado>Tolera muchos rangos de luz y temperatura, riegos semanales y poca humedad.</cuidado>
-        <imagen ruta="img/aspidistra-elatior-1.jpg"/>
+        <imagen>img/aspidistra.jpg</imagen>
     <!-- PLANTA 20 / C -->    
-    </planta>
+    </planta5>
       
 </catalog>

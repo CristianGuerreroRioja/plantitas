@@ -1,7 +1,16 @@
-table,
-th,
-td {
-    border: 10px solid black;
+* {
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
 
@@ -20,7 +29,21 @@ td {
 }
 
 
-/*Section-2*/
+/*one-column*/
+
+.one-column {
+    float: left;
+    width: 100%;
+    padding: 10%;
+}
+
+.one-column h1 {
+    font-size: 4vw;
+    text-align: center;
+}
+
+
+/*four-column*/
 
 .four-column {
     float: left;
@@ -29,10 +52,28 @@ td {
 }
 
 .four-column img {
+    display: block;
     width: 100%;
-    margin-bottom: -5px;
+    margin: auto;
 }
 
-.four-column P {
+
+/*Table*/
+
+#section-2 {
     text-align: center;
+}
+
+.padding-30 {
+    padding-top: 1px;
+}
+
+@media screen and (max-width:600px) {
+    .header,
+    .one-column {
+        width: 100%;
+    }
+    .four-column {
+        width: 50%;
+    }
 }
